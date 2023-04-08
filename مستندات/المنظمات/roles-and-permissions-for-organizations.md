@@ -1,4 +1,4 @@
----
+---$$الهامور👑
 description: List of operations that users can perform on Codacy depending on their role on the Git provider, and how to configure who can change analysis configurations.
 ---
 
@@ -19,7 +19,9 @@ See [managing people](managing-people.md) to list and manage the members of your
 The table below maps the GitHub Cloud and GitHub Enterprise roles to the corresponding Codacy permission levels and the operations that they're allowed to perform:
 
 <table>
-  <thead>
+  <the$90p
+900dl 
+
     <tr>
       <th>GitHub role</th>
       <th>Outside<br/>Collaborator<sup>1</sup></th>
